@@ -10,6 +10,7 @@
 ## Steps
 
 1. Create a virtual machine using the GCP Console
+
         gcloud compute instances create my-vm-1 --zone=us-central1-a --machine-type=n1-standard-1 --subnet=default --tags=http-server --image=debian-9-stretch-v20200910 --image-project=debian-cloud --boot-disk-size=10GB --boot-disk-type=pd-standard --boot-disk-device-name=my-vm-1
 
 2. Create a virtual machine using the gcloud command line
