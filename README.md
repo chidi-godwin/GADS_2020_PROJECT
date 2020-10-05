@@ -2,7 +2,7 @@
 
 ## Project submission for GADS 2020 phase 2 cloud track.
 
-Labs Completed;
+### Labs Completed;
   1. Creating Virtual Machines.
   2. Working with virtual machines.
   3. Getting started with Deployment Manager and Cloud Monitoring.
@@ -15,7 +15,7 @@ Labs Completed;
   10. Getting started with APp Engine.
   
 
-Labs converted to Command Line.
+### Labs converted to Command Line.
   1. Creating Virtual Machines.
   2. Getting started with Compute Engine.
   3. Working with Virtual Machines.
